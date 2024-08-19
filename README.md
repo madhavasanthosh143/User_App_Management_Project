@@ -1,4 +1,4 @@
-# jsp-servlet-jdbc-mysql-crud-tutorial
-JSP Servlet JDBC MySQL CRUD Example Tutorial 
+# JSP-SERVLET-JDBC
+--->Iam using CRUD OPerations in these project
 
-https://www.javaguides.net/2019/03/jsp-servlet-jdbc-mysql-crud-example-tutorial.html
+  
